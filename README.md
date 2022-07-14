@@ -15,3 +15,11 @@ São ferramentas utilizadas para aumentar a produtividade no desenvolvimento CSS
 - Prevenção de erros
 - Organização
 - Reaproveitamento
+
+## Variáveis
+- Facilitam a customização e reaproveitamento
+
+## Identação / Hirarquia
+- Estruturação de componentes
+- Herança
+- Evita sobreposição
