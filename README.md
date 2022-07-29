@@ -45,4 +45,8 @@ sass ./scss/style.scss ./css/style.css
 6. customizar o projeto
 7. salvar alterações
 8. comitar no seu repositório
+<<<<<<< HEAD
 9. enviar o link do repositório para o portal da EBAC
+=======
+9. enviar o link do repositório para o portal da EBAC
+>>>>>>> 3ddb3d6429268b2e6d530af9d554ccb16a9503dc
